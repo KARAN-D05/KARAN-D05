@@ -1,14 +1,14 @@
 ## Hi, I'm Karan 👋
-Student exploring how formal logic becomes computation, how computation becomes systems, and how systems - biological and artificial give rise to intelligence 🧠.
+Student exploring how formal logic becomes computation, how computation becomes systems, and how systems-biological and artificial give rise to intelligence 🧠.
 
 Currently interested in digital systems design, computer architecture, computational logic, and the connections between human and machine intelligence.
 
 ### 🔧 What I work on
 - Low-level computational machine design
-- Gate-Level and threshold based learning systems
+- Gate-Level and threshold-based learning systems
 - Hardware-software interface exploration
 
-*Building simple systems Deeply.*
+*Building and exploring computing systems from ground up ⚙️.*
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
