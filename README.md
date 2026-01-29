@@ -1,11 +1,11 @@
 ## Hi, I'm Karan 👋
  
-**`🌱 Building and exploring computing systems from ground up`**
+**`🌱 Building and exploring computing systems from the ground up`**
 
 ### 🔧 What I work on
 - Low-level computational machine design
 - Gate-level and threshold-based learning systems
-- Hardware-software interface exploration
+- Hardware-software interface boundaries
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
