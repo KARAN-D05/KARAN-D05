@@ -3,7 +3,7 @@
 
 ### 🔧 What I work on
 - Low-level computational machine design
-- Gate-Level and threshold-based learning systems
+- Gate-level and threshold-based learning systems
 - Hardware-software interface exploration
 
 <!--
