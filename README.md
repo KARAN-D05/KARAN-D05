@@ -1,4 +1,4 @@
-## Hi, I'm Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hi, I'm Karan 👋
  
 **`🌱 Building and exploring computing systems from ground up`**
 
