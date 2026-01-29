@@ -6,7 +6,7 @@
 - Gate-Level and threshold-based learning systems
 - Hardware-software interface exploration
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KARAN-D05)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KARAN-D05&show_icons=true&theme=dark&cache_seconds=86400)
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
