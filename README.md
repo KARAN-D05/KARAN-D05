@@ -1,7 +1,7 @@
 ## Hi, I'm Karan 👋 
 **`🌱 Building and exploring computing systems from ground up ⚙️`.**
 
-- Student exploring how formal logic becomes computation, how computation becomes systems, and how systems-biological and artificial give rise to intelligence 🧠.
+- Student exploring how formal logic becomes computation, how computation becomes systems, and how systems, biological and artificial give rise to intelligence 🧠.
 
 ### 🔧 What I work on
 - Low-level computational machine design
