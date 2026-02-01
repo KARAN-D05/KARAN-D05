@@ -1,4 +1,4 @@
-# Hi, I'm Karan 👋
+## Hi, I'm Karan 👋
  
 ## **`🌱 Building and exploring computing systems from the ground up`** 
 
