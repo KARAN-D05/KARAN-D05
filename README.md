@@ -4,8 +4,8 @@
 
 ### 🔧 What I work on
 - Low-level computational machine design
-- Gate-level and threshold-based learning systems
 - Hardware-software interface boundaries
+- Gate-level and threshold-based learning systems
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
