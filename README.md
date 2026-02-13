@@ -3,10 +3,10 @@
 ## `🌱 Building and exploring computing systems from the ground up`
 
 ### 🔧 What I work on
+- Feedback-driven control
 - Low-level computational machine design
 - Hardware-software interface boundaries
 - Gate-level and threshold-based learning systems
-- Feedback-driven control
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
