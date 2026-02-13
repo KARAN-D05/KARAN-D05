@@ -4,8 +4,8 @@
 
 ### 🔧 What I work on
 - Feedback-driven control
-- Low-level computational machine design
 - Hardware-software interface boundaries
+- Low-level computational machine design
 - Gate-level and threshold-based learning systems
 
 <!--
