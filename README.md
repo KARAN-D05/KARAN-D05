@@ -3,9 +3,9 @@
 ## `🌱 Building and exploring computing systems from the ground up`
 
 ### 🔧 What I work on
-- Feedback-driven control
-- Hardware-software interface boundaries
 - Low-level computational machine design
+- Feedback-driven control and computation
+- Hardware-software interface boundaries
 - Gate-level and threshold-based learning systems
 
 <!--
