@@ -6,6 +6,7 @@
 - Low-level computational machine design
 - Feedback-driven control and computation
 - Hardware-software interface boundaries
+- Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
 <!--
