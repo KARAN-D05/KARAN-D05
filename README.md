@@ -9,6 +9,8 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&theme=default&cache_seconds=1800)
+
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
