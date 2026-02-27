@@ -9,11 +9,6 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-005F9E?style=for-the-badge&logo=vhdl&logoColor=white)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&hide=html)
 
 <!--
@@ -29,4 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-005F9E?style=for-the-badge&logo=vhdl&logoColor=white)
+
 -->
