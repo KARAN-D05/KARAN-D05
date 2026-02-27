@@ -9,6 +9,10 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
