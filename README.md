@@ -14,7 +14,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-005F9E?style=for-the-badge&logo=vhdl&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karandiwan&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact)
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
