@@ -9,15 +9,6 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
-     ██╗ █████╗  ██████╗ ██╗   ██╗███████╗████████╗    ██████╗ ██████╗  ██████╗ ███████╗
-     ██║██╔══██╗██╔═══██╗██║   ██║██╔════╝╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗╚════██║
-     ██║███████║██║   ██║██║   ██║█████╗     ██║       ██║  ██║██████╔╝██║   ██║    ██╔╝
-██   ██║██╔══██║██║▄▄ ██║██║   ██║██╔══╝     ██║       ██║  ██║██╔══██╗██║   ██║   ██╔╝
-╚█████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗   ██║       ██████╔╝██║  ██║╚██████╔╝ ████████
- ╚════╝ ╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝╚═╝╚═╝
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&hide=html,c)
-
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
@@ -37,5 +28,6 @@ Here are some ideas to get you started:
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-005F9E?style=for-the-badge&logo=vhdl&logoColor=white)
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KARAN-D05&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&custom_title=Engineering%20Activity)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&hide=html)
 
 -->
