@@ -9,6 +9,13 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
+     ██╗ █████╗  ██████╗ ██╗   ██╗███████╗████████╗    ██████╗ ██████╗  ██████╗ ███████╗
+     ██║██╔══██╗██╔═══██╗██║   ██║██╔════╝╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗╚════██║
+     ██║███████║██║   ██║██║   ██║█████╗     ██║       ██║  ██║██████╔╝██║   ██║    ██╔╝
+██   ██║██╔══██║██║▄▄ ██║██║   ██║██╔══╝     ██║       ██║  ██║██╔══██╗██║   ██║   ██╔╝
+╚█████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗   ██║       ██████╔╝██║  ██║╚██████╔╝ ████████
+ ╚════╝ ╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝╚═╝╚═╝
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&hide=html,c)
 
 <!--
