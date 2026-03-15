@@ -9,6 +9,13 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
+## 🕰️ TVA Clearance
+> *This repository exists on the Sacred Timeline.*
+> 
+> **Authorized by the Time Variance Authority — For All Time. Always.**
+
+![TVA Agent](https://img.shields.io/badge/TVA%20Agent-Sanctioned%20Timeline-FF6B00?style=flat-square&logoColor=white)
+
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
