@@ -9,12 +9,9 @@
 - Fault tolerant and self-correcting mechanisms
 - Gate-level and threshold-based learning systems
 
-## 🕰️ TVA Clearance
+### 🕰️ TVA Clearance
 > *This repository exists on the Sacred Timeline.*
-> 
-> **Authorized by the Time Variance Authority - For All Time. Always.**
 
-![TVA Agent](https://img.shields.io/badge/TVA%20Agent-Sanctioned%20Timeline-FF6B00?style=flat-square&logoColor=white)
 ![TVA](https://img.shields.io/badge/TVA-For%20All%20Time%20Always-orange?style=for-the-badge)
 
 <!--
