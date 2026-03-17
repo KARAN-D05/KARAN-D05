@@ -12,8 +12,6 @@
 ### 🕰️ TVA Clearance
 ![TVA](https://img.shields.io/badge/TVA-For%20All%20Time%20Always-FF6B00?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&hide=html)
-
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
