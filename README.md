@@ -8,7 +8,7 @@
 - Hardware-software interface boundaries
 - Fault tolerant and self-correcting architectures
 - Gate-level and threshold-based learning systems
-- Hardware and algorithmic optimization
+- Hardware-aware algorithm design and implementation trade-offs
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
