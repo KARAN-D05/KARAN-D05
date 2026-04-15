@@ -6,8 +6,9 @@
 - Low-level computational machine design
 - Feedback-driven control and computation
 - Hardware-software interface boundaries
-- Fault tolerant and self-correcting mechanisms
+- Fault tolerant and self-correcting architectures
 - Gate-level and threshold-based learning systems
+- Hardware and algorithmic optimization
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
