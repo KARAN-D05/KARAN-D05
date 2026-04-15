@@ -1,6 +1,6 @@
 # Hi, I'm Karan 👋
  
-## `🌱 Building and exploring computing systems from the ground up`
+## `🌱 Building computing systems that compute, adapt and learn from gates up`
 
 ### 🔧 What I work on
 - Low-level computational machine design
