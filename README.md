@@ -10,6 +10,8 @@
 - Gate-level and threshold-based learning systems
 - Algorithm design under hardware constraints
 
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KARAN-D05&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&custom_title=Engineering%20Activity)
+
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
