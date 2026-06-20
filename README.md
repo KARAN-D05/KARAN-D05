@@ -11,12 +11,11 @@
 - Algorithm design under hardware constraints
 
 ## 🛠️ Tools & Technologies
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-blue?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Analysis-orange?style=for-the-badge)
-![Yosys](https://img.shields.io/badge/Yosys-Synthesis-green?style=for-the-badge)
-![OpenSTA](https://img.shields.io/badge/OpenSTA-Static_Timing-blueviolet?style=for-the-badge)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-Physical_Design-red?style=for-the-badge)
-![Cocotb](https://img.shields.io/badge/Cocotb-Verification-purple?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-1E88E5?style=flat-square)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveforms-F57C00?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys-Synthesis-43A047?style=flat-square)
+![OpenSTA](https://img.shields.io/badge/OpenSTA-STA-8E24AA?style=flat-square)
+![Cocotb](https://img.shields.io/badge/Cocotb-Verification-D81B60?style=flat-square)
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
