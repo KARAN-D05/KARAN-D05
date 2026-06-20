@@ -10,6 +10,13 @@
 - Gate-level and threshold-based learning systems
 - Algorithm design under hardware constraints
 
+### EDA Tools
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulator-blue?style=flat-square)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Viewer-orange?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys-Synthesis-green?style=flat-square)
+![OpenSTA](https://img.shields.io/badge/OpenSTA-Static_Timing-blue?style=flat-square)
+![Cocotb](https://img.shields.io/badge/Cocotb-Verification-purple?style=flat-square)
+
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
