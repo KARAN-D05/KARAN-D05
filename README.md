@@ -10,12 +10,12 @@
 - Gate-level and threshold-based learning systems
 - Algorithm design under hardware constraints
 
-### EDA Tools
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulator-blue?style=flat-square)
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Viewer-orange?style=flat-square)
-![Yosys](https://img.shields.io/badge/Yosys-Synthesis-green?style=flat-square)
-![OpenSTA](https://img.shields.io/badge/OpenSTA-Static_Timing-blue?style=flat-square)
-![Cocotb](https://img.shields.io/badge/Cocotb-Verification-purple?style=flat-square)
+## 🛠️ Tools & Technologies
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-1E88E5?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Analysis-F57C00?style=for-the-badge)
+![Yosys](https://img.shields.io/badge/Yosys-Synthesis-43A047?style=for-the-badge)
+![OpenSTA](https://img.shields.io/badge/OpenSTA-Static_Timing-8E24AA?style=for-the-badge)
+![Cocotb](https://img.shields.io/badge/Cocotb-Verification-D81B60?style=for-the-badge)
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
