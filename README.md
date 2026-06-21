@@ -7,7 +7,6 @@
 - RTL Design and Verification
 - Logic Synthesis and Technology Mapping
 - Static Timing Analysis
-- Feedback-Driven Control and Computation
 - Hardware-Software Interfaces
 
 ## 🛠️ Tools & Technologies
