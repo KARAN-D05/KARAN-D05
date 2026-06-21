@@ -6,7 +6,7 @@
 - Digital Systems and Computer Architecture
 - RTL Design and Verification
 - Logic Synthesis and Technology Mapping
-- Static Timing Analysis
+- Static Timing and Power Analysis
 - Hardware-Software Interfaces
 
 ## 🛠️ Tools & Technologies
