@@ -3,12 +3,11 @@
 ## `🌱 Building and exploring computing systems from the ground up `
 
 ### 🔧 What I work on
-- Low-level computational machine design
+- Digital Systems and Computer Architecture
+- RTL Design and Verification
+- ASIC Design Flow
 - Feedback-driven control and computation
 - Hardware-software interface boundaries
-- Fault tolerant and self-correcting architectures
-- Gate-level and threshold-based learning systems
-- Algorithm design under hardware constraints
 
 ## 🛠️ Tools & Technologies
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-1E88E5?style=flat-square)
