@@ -5,9 +5,10 @@
 ### 🔧 What I work on
 - Digital Systems and Computer Architecture
 - RTL Design and Verification
-- ASIC Design Flow
-- Feedback-driven control and computation
-- Hardware-software interface boundaries
+- Logic Synthesis and Technology Mapping
+- Static Timing Analysis
+- Feedback-Driven Control and Computation
+- Hardware-Software Interfaces
 
 ## 🛠️ Tools & Technologies
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-1E88E5?style=flat-square)
