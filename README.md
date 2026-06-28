@@ -17,6 +17,8 @@
 ![Yosys](https://img.shields.io/badge/Yosys-Synthesis-43A047?style=flat-square)
 ![OpenSTA](https://img.shields.io/badge/OpenSTA-Static_Timing_Analysis-8E24AA?style=flat-square)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KARAN-D05&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&hide=html)
+
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Exploring how logic gates evolve into programmable systems - from raw hardware to machines that guide us to the Moon 🚀
