@@ -10,12 +10,12 @@
 - Hardware-Software Interfaces
 
 ## 🛠️ Tools & Technologies
-![Icarus Verilog](https://img.shields.io/badge/IVerilog-Simulation-1E88E5?style=flat-square)
-![Verilator](https://img.shields.io/badge/Verilator-Linting-00897B?style=flat-square)
-![Cocotb](https://img.shields.io/badge/Cocotb-Verification-D81B60?style=flat-square)
-![SymbiYosys](https://img.shields.io/badge/SymbiYosys-Formal_Verification-5E35B1?style=flat-square)
-![Yosys](https://img.shields.io/badge/Yosys-Synthesis-43A047?style=flat-square)
-![OpenSTA](https://img.shields.io/badge/OpenSTA-Static_Timing_Analysis-8E24AA?style=flat-square)
+![Icarus](https://img.shields.io/badge/Icarus-Sim-1E88E5?style=flat-square)
+![Verilator](https://img.shields.io/badge/Verilator-Lint-00897B?style=flat-square)
+![Cocotb](https://img.shields.io/badge/Cocotb-Verify-D81B60?style=flat-square)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waves-F57C00?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys-Synth-43A047?style=flat-square)
+![OpenSTA](https://img.shields.io/badge/OpenSTA-STA-8E24AA?style=flat-square)
 
 <!--
 **KARAN-D05/KARAN-D05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
