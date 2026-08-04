@@ -10,7 +10,7 @@
 - Hardware-Software Interfaces
 
 ## 🛠️ Tools & Technologies
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-1E88E5?style=flat-square)
+![Icarus Verilog](https://img.shields.io/badge/IVerilog-Simulation-1E88E5?style=flat-square)
 ![Verilator](https://img.shields.io/badge/Verilator-Linting-00897B?style=flat-square)
 ![Cocotb](https://img.shields.io/badge/Cocotb-Verification-D81B60?style=flat-square)
 ![SymbiYosys](https://img.shields.io/badge/SymbiYosys-Formal_Verification-5E35B1?style=flat-square)
