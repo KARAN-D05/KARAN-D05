@@ -1,6 +1,6 @@
 # Hi, I'm Karan 👋
  
-## `🌱 Building computing systems from the ground up `
+## `🌱 Building and exploring computing systems from the ground up `
 
 ### 🔧 What I work on
 - Digital Systems and Computer Architecture
