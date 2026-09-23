@@ -8,6 +8,7 @@
 - Logic Synthesis and Technology Mapping
 - Static Timing and Power Analysis
 - Hardware-Software Interfaces
+- High-Performance Arithmetic Architectures
 
 ## 🛠️ Tools & Technologies
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulation-1E88E5?style=flat-square)
